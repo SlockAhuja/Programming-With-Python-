@@ -1,0 +1,9 @@
+# Ahuja Slock
+
+# multiline string 
+message = """
+ICT
+Department
+3EK1										
+"""
+print(message)
